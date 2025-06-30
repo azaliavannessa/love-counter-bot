@@ -1,0 +1,1 @@
+worker: python love_counter_bot_final.py
